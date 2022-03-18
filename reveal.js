@@ -1,0 +1,9 @@
+ScrollReveal().reveal('#bodyid');
+ScrollReveal().reveal('h1');
+ScrollReveal().reveal('h2');
+ScrollReveal().reveal('h3');
+ScrollReveal().reveal('h4');
+ScrollReveal().reveal('h5');
+ScrollReveal().reveal('h6');
+ScrollReveal().reveal('span');
+ScrollReveal().reveal('p');
